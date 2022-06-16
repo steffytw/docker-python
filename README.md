@@ -3,7 +3,7 @@
 step1:
 
 ```
-docker build test_sample .
+docker build -t test_sample .
 ```
 
 Step2:
